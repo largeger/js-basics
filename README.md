@@ -1,5 +1,8 @@
 # JavaScript Grundlagen
 
+> ab 14.06.2024 keine Änderungen mehr - aktueller Freeze-Zustand und keine weitere Bearbeitung
+
+
 **Dieses Repository wird ab dem 14.06.2024 nicht mehr aktiv gepflegt und dient nur noch zur eigenen Retrospektive.**
 
 ## Beschreibung
